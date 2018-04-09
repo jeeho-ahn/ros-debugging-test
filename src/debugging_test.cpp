@@ -16,6 +16,8 @@
 
 using namespace std;
 
+int variable = 99;
+
 int main(int argc, char** argv)
 {
     ros::init(argc, argv, "debugging_test");
